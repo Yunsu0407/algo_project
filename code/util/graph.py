@@ -1,4 +1,4 @@
-# graph1.py
+# graph.py
 
 from util.model import Node, Edge
 from util.kakao import get_all_coord
